@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1589914926 source:c:\users\pc\documents\parcial de laboratorio i, parte 2\bibliotecapplab i.c
+	"bibliotecaPPLab I.h"
+
+1589915258 source:c:\users\pc\documents\parcial de laboratorio i, parte 2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1589914896 c:\users\pc\documents\parcial de laboratorio i, parte 2\bibliotecapplab i.h
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
